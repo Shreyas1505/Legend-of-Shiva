@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ Class\ Item\ -\ an\ item\ in\ an\ adventure\ game.\n\ \n\ This\ class\ is\ part\ of\ the\ "Legend\ Of\ Shiva"\ application.\ \n\ "Legend\ Of\ Shiva"\ is\ a\ text\ based\ adventure\ game.\ \n\n\ An\ item\ represents\ an\ object\ stored\ in\ a\ room.\ The\ player\ can\n\ pick\ the\ items,\ drop\ the\ items,\ place\ the\ items\ and\ also\ kill\ \n\ monsters\ using\ some\ items.\n\n\ @author\ \ Shreyas\ Solanki\ \n\ @version\ 2017.12.1\n
+comment1.params=itemName\ itemWeight\ itemRoom
+comment1.target=Item(java.lang.String,\ int,\ Room)
+comment1.text=\n\ Create\ an\ item\ name,\ item\ weight\ and\ item\ room.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ return\ the\ name\ of\ this\ item.\n
+comment3.params=
+comment3.target=int\ getWeight()
+comment3.text=\n\ return\ weight\ of\ this\ item.\n
+comment4.params=
+comment4.target=Room\ getRoom()
+comment4.text=\n\ return\ room\ of\ this\ item.\n
+comment5.params=
+comment5.target=boolean\ picked()
+comment5.text=\n\ return\ boolean\ of\ this\ item.\ \n
+comment6.params=
+comment6.target=void\ togglePicked()
+comment6.text=\n\ Toggles\ the\ boolean.\ True\ if\ the\ item\ is\ picked\ and\ false\ when\ it\ is\ not\ picked.\n
+numComments=7

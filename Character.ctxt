@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\n\ Class\ Character\ -\ a\ character\ in\ an\ adventure\ game.\n\ \n\ This\ class\ is\ part\ of\ the\ "Legend\ Of\ Shiva"\ application.\ \n\ "Legend\ Of\ Shiva"\ is\ a\ text\ based\ adventure\ game.\ \n\ \n\ A\ character\ is\ \ stored\ in\ a\ room\ similar\ to\ an\ item\ but\ some\ \n\ characters\ can\ move,\ some\ can\ protect\ items.\ Characters\ can\ also\ be\ killed.\n\ \n\ @author\ \ Shreyas\ Solanki\ \n\ @version\ 2017.12.1\n
+comment1.params=charName\ charRoom
+comment1.target=Character(java.lang.String,\ Room)
+comment1.text=\n\ Creates\ a\ name\ and\ Room\ for\ this\ character\ \n
+comment2.params=
+comment2.target=java.lang.String\ getCharName()
+comment2.text=\n\ returns\ this\ character's\ name.\n
+comment3.params=
+comment3.target=Room\ getCharRoom()
+comment3.text=\n\ returns\ this\ character's\ room.\n
+numComments=4
